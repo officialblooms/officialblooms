@@ -1,6 +1,6 @@
 ### Hello! Welcome to my GitHub profile! 👋
 
-I'm very new to GitHub so if my page looks unprofessional go figure 🙂
+I'm very new to GitHub so ignore my GitHub stats for now pls 🙂
 
 - 📖 About me: I was born in Canada in 2005 and moved to Seattle, Washington in 2021! I love meeting new people and am very open-minded to learn about new things!
 - 😄 Pronouns: he/him
