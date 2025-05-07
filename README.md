@@ -12,8 +12,9 @@ I'm very new to GitHub so ignore my GitHub stats for now pls 🙂
 - 🚗 I like looking at awesome cars. My favorite car brands are Koenigsegg, Pagani, and McLaren.
 - 😎 Fun fact: I have a [Geometry Dash video](https://youtu.be/YY6IzhKMrg0?si=r9iVO6UHDtVFGdnE) on my [YouTube channel](https://www.youtube.com/@OfficialBlooms/videos) with over 2 million views!
 
-![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialblooms&theme=synthwave&show_icons=true&count_private=true)
+![Evan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=officialblooms&theme=synthwave&show_icons=true&count_private=true)<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=officialblooms&repo=Wordle&theme=radical)](https://github.com/officialblooms/Wordle)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=officialblooms&repo=My-Website&theme=radical)](https://github.com/officialblooms/My-Website)
 
 ![big build thingy i made in minecraft wow wow very such wow](zzz.png)
 
